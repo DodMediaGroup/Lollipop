@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="42"
+   height="56"
+   id="svg30160">
+  <defs
+     id="defs30162">
+    <clipPath
+       id="clipPath9242">
+      <path
+         d="m 0,6615.635 990,0 L 990,0 0,0 0,6615.635 z"
+         id="path9244" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata30165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-295.41719,-164.36758)"
+     id="layer1">
+    <g
+       transform="matrix(0.95663443,0,0,-0.9568891,-382.75376,842.90671)"
+       id="g9238">
+      <g
+         clip-path="url(#clipPath9242)"
+         id="g9240">
+        <g
+           transform="translate(745.502,687.1855)"
+           id="g9246">
+          <path
+             d="m 0,0 c -0.01,8.062 -6.558,14.607 -14.619,14.616 -8.09,0.005 -14.652,-6.558 -14.646,-14.647 0.01,-8.063 6.556,-14.61 14.62,-14.619 C -6.564,-14.656 0.008,-8.084 0,0 m -15.319,-36.599 c -1.343,0.363 -2.205,1.351 -3.087,2.328 -4.893,5.415 -9.288,11.191 -12.857,17.57 -2.209,3.951 -3.994,8.068 -4.905,12.539 -2.066,10.111 3.655,20.682 13.294,24.489 11.548,4.56 24.242,-0.962 28.743,-12.532 1.835,-4.715 1.847,-9.51 0.47,-14.344 -1.294,-4.54 -3.385,-8.713 -5.838,-12.715 -3.464,-5.653 -7.527,-10.849 -12.015,-15.724 -0.681,-0.742 -1.463,-1.313 -2.432,-1.611 l -1.373,0 z"
+             id="path9248"
+             style="fill:#ee3d57;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        </g>
+        <g
+           transform="translate(730.8936,694.4824)"
+           id="g9250">
+          <path
+             d="m 0,0 c 4.024,-0.008 7.295,-3.293 7.289,-7.322 -0.003,-4.049 -3.308,-7.328 -7.366,-7.307 -4.019,0.02 -7.277,3.317 -7.263,7.355 C -7.325,-3.252 -4.037,0.01 0,0"
+             id="path9252"
+             style="fill:#ee3d57;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

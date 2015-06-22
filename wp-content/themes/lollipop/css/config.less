@@ -1,0 +1,60 @@
+@import url('fonts.less');
+
+/**** COLORS ****/
+
+//BLUES
+@color-blue: #00B7B7;
+@color-blue-1: #63C8D4;
+@color-blue-2: #028982;
+@color-blue-3: #035E5B;
+
+//PURPLES
+@color-purple: #602F91;
+@color-purple-1: #C0B2D2;
+@color-purple-2: #A896CC;
+@color-purple-3: #7451A5;
+@color-purple-4: #43137A;
+
+//REDS
+@color-red: #EE3D57;
+@color-red-1: #EF5A76;
+@color-red-2: #D9374f;
+
+// WHITE
+@color-white: #FFFFFF;
+
+//YELLOWS
+@color-yellow: #EBE84D;
+@color-yellow-1: #D1C930;
+@color-yellow-2: #BCB01B;
+@color-yellow-3: #A5960A;
+
+/**** FONTS ****/
+@font-text: 'Roboto', sans-serif;
+@font-text-strong: 'Oswald', sans-serif;
+@font-title: 'Fjalla One', sans-serif;
+
+/**** PATHS ****/
+@path-images: 'images';
+
+/**** DIMENSIONS ****/
+@window-width: 1020px;
+
+@font-size-default: 16px;
+@padding: 12px;
+
+/**** RESPONSIVE ****/
+@smartphones: 768px;
+@tablets: 992px;
+@notebook: 1200px;
+.responsive(@maxWidth; @rules) {
+    @media only screen and (max-width: @maxWidth) {
+        @rules();
+    }
+}
+
+
+/**** PROPERTIES ELEMENTS *****/
+figure{
+	margin: 0px;
+}

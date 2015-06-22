@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="45"
+   height="45"
+   id="svg16797">
+  <defs
+     id="defs16799">
+    <clipPath
+       id="clipPath8794">
+      <path
+         d="m 178.688,3801.59 4.182,0 0,-9.04 -4.182,0 0,9.04 z"
+         id="path8796" />
+    </clipPath>
+    <clipPath
+       id="clipPath8778">
+      <path
+         d="m 172.416,3800.94 7.6,0 0,-9.44 -7.6,0 0,9.44 z"
+         id="path8780" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata16802">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-380.35714,-221.29075)"
+     id="layer1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,405.66293,243.83963)"
+       id="g8722">
+      <path
+         d="M 0,0 3.202,1.631 3.202,-1.6 0,-3.203 0,0 z m 5.178,2.73 3.203,1.632 0,-3.232 -3.203,-1.6 0,3.2 z m -9.76,-13.318 15.566,6.402 0,11.133 L -4.582,0 l 0,-10.588 z"
+         id="path8724"
+         style="fill:#50483e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,389.26156,242.89853)"
+       id="g8726">
+      <path
+         d="m 0,0 6.404,-3.641 0,-6.696 2.135,-1.004 0,10.588 -9.92,5.023 0,-11.133 L 0,-7.782 0,0 z"
+         id="path8728"
+         style="fill:#61574b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,419.39344,235.15563)"
+       id="g8730">
+      <path
+         d="m 0,0 -3.051,1.05 0,-0.328 -10.762,-4.468 -6.814,3.064 0,0.559 -4.859,-1.802 9.92,-5.022 L 0,0 z"
+         id="path8732"
+         style="fill:#75695b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,402.12781,237.69103)"
+       id="g8734">
+      <path
+         d="M 0,0 10.762,4.782 4.305,6.517 -6.814,2.75 0,0 z"
+         id="path8736"
+         style="fill:#ffde00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,402.12781,239.83833)"
+       id="g8738">
+      <path
+         d="m 0,0 0,1.718 -6.814,2.75 0,-0.845 0,-0.559 L 0,0 z"
+         id="path8740"
+         style="fill:#ffc10e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,402.12781,237.69103)"
+       id="g8742">
+      <path
+         d="m 0,0 0,-1.718 10.762,4.468 0,2.002 0,0.03 L 0,0 z"
+         id="path8744"
+         style="fill:#f9a719;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,409.66556,241.80113)"
+       id="g8746">
+      <path
+         d="m 0,0 -3.202,-1.631 0,-3.203 L 0,-3.23 0,0 z"
+         id="path8748"
+         style="fill:#ffde00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>

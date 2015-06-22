@@ -1,0 +1,73 @@
+.header-parallax{
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.montana, .lollipop-contetn{
+	bottom: 0px;
+	position: absolute;
+	transition: all .5s;
+	width: 100%;
+	&.montana-1{
+		bottom: 20%;
+		z-index: 2;
+	}
+	&.montana-2{
+		bottom: 14%;
+		z-index: 3;
+	}
+	&.montana-3{
+		z-index: 4;
+	}
+	svg{
+		display: block;
+		height: 100%;
+		width: 100%;
+	}
+}
+.lollipop-contetn{
+	bottom: 49%;
+	z-index: 1;
+	.lollipop{
+		animation: flotando 1.5s ease infinite;
+	}
+}
+.sol-content{
+	left: 30px;
+	position: absolute;
+	top: 30px;
+	transition: all .5s;
+	z-index: 1;
+	.sol{
+		animation: road 20s linear infinite;
+	}
+}
+
+.nube:not(.sol){
+	animation: nubes 50s linear infinite;
+	left: -15%;
+	position: absolute;
+	transition: all .5s;
+	z-index: 1;
+	&:nth-child(4n){
+		animation-delay: 4s;
+		animation-duration: 45s;
+		top: 90px;
+	}
+	&:nth-child(4n+1){
+		animation-delay: 16s;
+		top: 50px;
+	}
+	&:nth-child(4n+2){
+		animation-delay: 22s;
+		animation-duration: 40s;
+		top: 150px;
+	}
+	&:nth-child(4n+3){
+		animation-delay: 0s;
+		top: 15px;
+	}
+}
+.voz{
+	animation: voz 3s linear infinite;
+}

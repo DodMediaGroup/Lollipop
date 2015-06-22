@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="45"
+   height="45"
+   id="svg16797">
+  <defs
+     id="defs16799">
+    <clipPath
+       id="clipPath8794">
+      <path
+         d="m 178.688,3801.59 4.182,0 0,-9.04 -4.182,0 0,9.04 z"
+         id="path8796" />
+    </clipPath>
+    <clipPath
+       id="clipPath8778">
+      <path
+         d="m 172.416,3800.94 7.6,0 0,-9.44 -7.6,0 0,9.44 z"
+         id="path8780" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata16802">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-380.35714,-221.29075)"
+     id="layer1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,408.29161,257.67109)"
+       id="g9194">
+      <path
+         d="M 0,0 C 0,0 0.018,0.373 0.047,1.027 0.25,5.372 0.953,22.01 0.07,23.124 -0.943,24.402 -0.787,23.067 -0.895,21.318 -1.008,19.568 -1.125,0.069 -1.125,0.069 L -0.666,0.038 0,0 z"
+         id="path9196"
+         style="fill:#461100;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,405.19349,253.94309)"
+       id="g9198">
+      <path
+         d="m 0,0 c -1.601,0.269 1.529,-2.843 1.697,-3.548 1.025,0.629 3.297,2.026 3.348,2.811 C 5.095,0.048 2.379,-1.564 1.848,-2.41 1.543,-1.753 0.369,-0.065 0,0"
+         id="path9200"
+         style="fill:#461100;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       transform="matrix(1.25,0,0,-1.25,407.41761,229.95139)"
+       id="g9202">
+      <path
+         d="M 0,0 C 0,0 -9.932,-1.799 -11.706,-2.529 -8.974,-4.835 -0.45,-10.067 0.355,-9.71 0.182,-6.688 0,0 0,0"
+         id="path9204"
+         style="fill:#b62e34;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>
